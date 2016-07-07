@@ -22,7 +22,7 @@
 
 [:arrow_up:](#index)
 
-#### **Functional Programming**
+### **Functional Programming**
 - Declarative Programming
     - Modern Declarative Programming in Swift [:page_facing_up:](https://wiki.mq.edu.au/display/plrg/James+Moss%3A+Modern+Declarative+Programming+in+Swift)
     - What is Functional Programming in Swift? [:floppy_disk:](http://media.monkey-robot.com/docs/thoughtworks-swift.pdf) [:page_facing_up:](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro) [:page_facing_up:](http://jamesonquave.com/blog/functional-programming-in-swift/) [:floppy_disk:](https://speakerdeck.com/saloievgen/think-functionally-in-swift) [:microphone:](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
@@ -177,8 +177,8 @@
 
 [:arrow_up:](#index)
 
-#### **Functional Reactive Programming**
-##### FRP
+### **Functional Reactive Programming**
+#### FRP
     - WhatI wished younger me knew about FRP [:page_facing_up:](http://codeplease.io/2016/04/04/what-i-wished-younger-me-knew/)
     - Why FRP [:page_facing_up:](http://codeplease.io/2016/01/08/why-frp/)
     - FRP in Swift 2.0 [:microphone:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/)
@@ -193,14 +193,14 @@
     - The Non-Reactive Solution [:page_facing_up:](http://inessential.com/2016/04/04/the_non-reactive_solution)
     - Simple Reactive Programming [:pencil:](https://gist.github.com/monyschuk/07be2c45c2a7157522f7)
 
-##### MVVM
+#### MVVM
   	- MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
     - Modern application architectures (Reactive programming, MVVM and beyond) [:page_facing_up:](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
     - MVVM in Practice [:page_facing_up:](http://bartjacobs.com/swift-and-model-view-viewmodel-in-practice/) [:page_facing_up:](http://bartjacobs.com/more-swift-and-model-view-viewmodel-in-practice/)
     - Reactive Learning Curve [:page_facing_up:](https://medium.com/@clozach/climbing-the-reactive-learning-curve-4a03fa8d17ae#.uy89014wo)
     - Reddit MVVM Benchmark [:pencil2:](https://github.com/ivanbruel/Reddit-MVVM-Benchmark)
 
-##### RAC
+#### RAC
     - Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
     - Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals)
     - ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
@@ -211,7 +211,7 @@
     - RACNest: RAC + MVVM Examples [:pencil2:](https://github.com/RuiAAPeres/RACNest)
     - Reactive Command Pattern [:pencil2:](https://github.com/pepibumur/ReactiveCommander)
 
-##### Rx
+#### Rx
     - Simple RxSwift [:page_facing_up:](https://littlebitesofcocoa.com/162-reacting-with-rxswift) [:page_facing_up:](https://littlebitesofcocoa.com/163-creating-observables-with-rxswift)
     - Functional Rective Programming with RxSwift [:floppy_disk:](https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift)
     - MVVM + RxSwift [:microphone:](https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/) [:pencil2:](https://github.com/RxSwiftCommunity/RxViewModel), [:page_facing_up:](https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.k901myr5x), [:page_facing_up:](http://tailec.com/blog/reactive-recipe-2)
@@ -224,7 +224,7 @@
 
 [:arrow_up:](#index)
 
-#### **Generics**
+### **Generics**
 - About
     + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/), Part 2 [:page_facing_up:](http://austinzheng.com/2015/09/29/swift-generics-pt-2/)
     + Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/Generics.rst)
