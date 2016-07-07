@@ -178,7 +178,7 @@
 [:arrow_up:](#index)
 
 #### **Functional Reactive Programming**
-### FRP
+##### FRP
     - WhatI wished younger me knew about FRP [:page_facing_up:](http://codeplease.io/2016/04/04/what-i-wished-younger-me-knew/)
     - Why FRP [:page_facing_up:](http://codeplease.io/2016/01/08/why-frp/)
     - FRP in Swift 2.0 [:microphone:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/)
@@ -192,26 +192,29 @@
     - What is Functional Reactive Programming? [:link:](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming/1030631#1030631)
     - The Non-Reactive Solution [:page_facing_up:](http://inessential.com/2016/04/04/the_non-reactive_solution)
     - Simple Reactive Programming [:pencil:](https://gist.github.com/monyschuk/07be2c45c2a7157522f7)
-### MVVM
-  	+ MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
+
+##### MVVM
+  	- MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
     - Modern application architectures (Reactive programming, MVVM and beyond) [:page_facing_up:](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
     - MVVM in Practice [:page_facing_up:](http://bartjacobs.com/swift-and-model-view-viewmodel-in-practice/) [:page_facing_up:](http://bartjacobs.com/more-swift-and-model-view-viewmodel-in-practice/)
     - Reactive Learning Curve [:page_facing_up:](https://medium.com/@clozach/climbing-the-reactive-learning-curve-4a03fa8d17ae#.uy89014wo)
     - Reddit MVVM Benchmark [:pencil2:](https://github.com/ivanbruel/Reddit-MVVM-Benchmark)
-### RAC
-    + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
-    + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals)
-    + ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
+
+##### RAC
+    - Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
+    - Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals)
+    - ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
     - RAC 3 with Ash Furrow [:floppy_disk:](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [:floppy_disk:](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
     - FRP with RAC in Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
     - MVVM + Rac 4 [:pencil2:](https://github.com/richeterre/SwiftGoal)
     - RAC Schedulers [:page_facing_up:](http://codeplease.io/2015/11/30/schedulers/)
     - RACNest: RAC + MVVM Examples [:pencil2:](https://github.com/RuiAAPeres/RACNest)
     - Reactive Command Pattern [:pencil2:](https://github.com/pepibumur/ReactiveCommander)
-### Rx
-    + Simple RxSwift [:page_facing_up:](https://littlebitesofcocoa.com/162-reacting-with-rxswift) [:page_facing_up:](https://littlebitesofcocoa.com/163-creating-observables-with-rxswift)
+
+##### Rx
+    - Simple RxSwift [:page_facing_up:](https://littlebitesofcocoa.com/162-reacting-with-rxswift) [:page_facing_up:](https://littlebitesofcocoa.com/163-creating-observables-with-rxswift)
     - Functional Rective Programming with RxSwift [:floppy_disk:](https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift)
-    + MVVM + RxSwift [:microphone:](https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/) [:pencil2:](https://github.com/RxSwiftCommunity/RxViewModel), [:page_facing_up:](https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.k901myr5x), [:page_facing_up:](http://tailec.com/blog/reactive-recipe-2)
+    - MVVM + RxSwift [:microphone:](https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/) [:pencil2:](https://github.com/RxSwiftCommunity/RxViewModel), [:page_facing_up:](https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.k901myr5x), [:page_facing_up:](http://tailec.com/blog/reactive-recipe-2)
     - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons) [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/) [:page_facing_up:](https://sideeffects.xyz/2015/from-rac-to-rxswift-the-survival-guide/)
     - Learning RxSwift [:link:](https://github.com/pepaslabs/LearningRxSwift)
     - Upgrading to RxSwift [:page_facing_up:](http://artsy.github.io/blog/2015/12/08/reactive-cocoa-to-rxswift/)
